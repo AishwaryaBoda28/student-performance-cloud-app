@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Student Predictor</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<h1>🎓 Student Performance Predictor</h1>
+
+<form method="post">
+<input name="study" placeholder="Study Hours">
+<input name="sleep" placeholder="Sleep Hours">
+<input name="attendance" placeholder="Attendance %">
+<input name="previous" placeholder="Previous Score">
+<input name="extra" placeholder="Extra Classes 0/1">
+<button type="submit">Predict</button>
+</form>
+
+{% if prediction %}
+<h2>Predicted Score: {{prediction}}</h2>
+{% endif %}
+
+</body>
+</html>

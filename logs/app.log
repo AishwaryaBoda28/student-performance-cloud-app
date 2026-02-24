@@ -1,0 +1,42 @@
+2026-02-24 16:55:20,416 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-24 16:55:20,416 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-24 16:55:20,420 - INFO -  * Restarting with stat
+2026-02-24 16:55:22,969 - WARNING -  * Debugger is active!
+2026-02-24 16:55:22,974 - INFO -  * Debugger PIN: 105-719-749
+2026-02-24 17:01:27,731 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-24 17:01:27,731 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-24 17:01:27,833 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-24 17:01:29,744 - WARNING -  * Debugger is active!
+2026-02-24 17:01:29,748 - INFO -  * Debugger PIN: 852-053-156
+2026-02-24 17:04:14,156 - INFO -  * Detected change in 'c:\\Users\\Aishwarya Boda\\OneDrive\\Desktop\\student_performance_cloud_app\\app.py', reloading
+2026-02-24 17:04:14,501 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-24 17:04:16,348 - WARNING -  * Debugger is active!
+2026-02-24 17:04:16,350 - INFO -  * Debugger PIN: 852-053-156
+2026-02-24 17:04:26,813 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-24 17:04:26,813 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-24 17:04:26,826 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-24 17:04:28,736 - WARNING -  * Debugger is active!
+2026-02-24 17:04:28,738 - INFO -  * Debugger PIN: 852-053-156
+2026-02-24 17:05:55,877 - INFO - 127.0.0.1 - - [24/Feb/2026 17:05:55] "GET / HTTP/1.1" 200 -
+2026-02-24 17:05:56,111 - INFO - 127.0.0.1 - - [24/Feb/2026 17:05:56] "GET /static/style.css HTTP/1.1" 200 -
+2026-02-24 17:05:57,719 - INFO - 127.0.0.1 - - [24/Feb/2026 17:05:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-24 17:06:17,786 - INFO - Prediction: 111.95
+2026-02-24 17:06:17,786 - INFO - 127.0.0.1 - - [24/Feb/2026 17:06:17] "POST / HTTP/1.1" 200 -
+2026-02-24 17:06:17,827 - INFO - 127.0.0.1 - - [24/Feb/2026 17:06:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2026-02-24 18:08:13,776 - INFO -  * Detected change in 'c:\\Users\\Aishwarya Boda\\OneDrive\\Desktop\\student_performance_cloud_app\\app.py', reloading
+2026-02-24 18:08:13,777 - INFO -  * Detected change in 'c:\\Users\\Aishwarya Boda\\OneDrive\\Desktop\\student_performance_cloud_app\\app.py', reloading
+2026-02-24 18:08:14,567 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-24 18:08:14,582 - INFO -  * Restarting with watchdog (windowsapi)
+2026-02-24 18:08:17,269 - WARNING -  * Debugger is active!
+2026-02-24 18:08:17,270 - WARNING -  * Debugger is active!
+2026-02-24 18:08:17,272 - INFO -  * Debugger PIN: 852-053-156
+2026-02-24 18:08:17,272 - INFO -  * Debugger PIN: 852-053-156
+2026-02-24 18:50:15,756 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-24 18:50:15,757 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-24 18:50:15,767 - INFO -  * Restarting with stat
+2026-02-24 18:50:18,990 - WARNING -  * Debugger is active!
+2026-02-24 18:50:18,995 - INFO -  * Debugger PIN: 796-528-348
